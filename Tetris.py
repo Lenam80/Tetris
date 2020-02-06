@@ -1,6 +1,7 @@
 import pygame
 import random
  
+ wn.title("Pong by Angelina")
 """
 10 x 20 square grid
 shapes: S, Z, I, O, J, L, T
